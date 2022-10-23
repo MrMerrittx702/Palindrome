@@ -9,9 +9,10 @@ classes defined in that question. Writing significant amounts of code that can b
 to one of these methods will not receive full credit.
 
 This question involves the StringManip class, which is used to perform manipulation on strings.
-The class provides the removeSpaces method, whose implementation is not shown. The method takes a 
-string and returns a new string with spaces removed. For example, removeSpaces("hi how are you") 
-returns "hihowareyou". The removeSpaces method will be used in part (b).
+The class provides the removeSpaces method, whose implementation is not shown.   
+The method takes a string and returns a new string with spaces removed.   
+For example, removeSpaces("hi how are you") returns "hihowareyou".   
+The removeSpaces method will be used in part (b).  
 
 ## Part A
 (a) Write method reverseString, which takes a string str and returns a new string with the characters in str in reverse order.   
