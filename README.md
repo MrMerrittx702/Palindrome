@@ -26,9 +26,9 @@ prints a message indicating the result. Examples of the intended behavior of the
 in the following table.
 
           Method Call	                         Printed Message
- palindromeChecker("taco cat")	           taco cat is a palindrome
- palindromeChecker("laid on no dial")     laid on no dial is a palindrome
- palindromeChecker("level up")	           level up is not a palindrome
+ palindromeChecker("taco cat")	           taco cat is a palindrome  
+ palindromeChecker("laid on no dial")      laid on no dial is a palindrome  
+ palindromeChecker("level up")	           level up is not a palindrome  
  
 (b) Write method palindromeChecker. Assume that reverseString works as specified, regardless of what you wrote in part (a). 
     You must use reverseString and removeSpaces appropriately to receive full credit. 
