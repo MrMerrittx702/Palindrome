@@ -25,7 +25,7 @@ You will write method palindromeChecker, which determines whether a string is a 
 prints a message indicating the result. Examples of the intended behavior of the method are shown 
 in the following table.
 
-          Method Call	                         Printed Message
+|Method Call|Printed Message|
  palindromeChecker("taco cat")	           taco cat is a palindrome  
  palindromeChecker("laid on no dial")      laid on no dial is a palindrome  
  palindromeChecker("level up")	           level up is not a palindrome  
