@@ -16,7 +16,7 @@ returns "hihowareyou". The removeSpaces method will be used in part (b).
 ## Part A
 (a) Write method reverseString, which takes a string str and returns a new string with the characters in str in reverse order. 
     For example, reverseString("ABCDE") should return "EDCBA".
-------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Part B
 For this question, let a palindrome be defined as a string that, when spaces are removed, 
