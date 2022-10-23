@@ -1,3 +1,6 @@
+/**
+EDIT THIS FILE
+*/
 
 public class StringManip {
 	
