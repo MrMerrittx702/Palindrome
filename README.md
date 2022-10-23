@@ -14,7 +14,7 @@ string and returns a new string with spaces removed. For example, removeSpaces("
 returns "hihowareyou". The removeSpaces method will be used in part (b).
 
 ## Part A
-(a) Write method reverseString, which takes a string str and returns a new string with the characters in str in reverse order. 
+(a) Write method reverseString, which takes a string str and returns a new string with the characters in str in reverse order. \n 
     For example, reverseString("ABCDE") should return "EDCBA".
 
 
