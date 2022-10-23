@@ -19,11 +19,8 @@ returns "hihowareyou". The removeSpaces method will be used in part (b).
 
 
 ## Part B
-For this question, let a palindrome be defined as a string that, when spaces are removed, 
-reads the same forward and backward. For example, "race car" and "taco cat" are palindromes. 
-You will write method palindromeChecker, which determines whether a string is a palindrome and 
-prints a message indicating the result. Examples of the intended behavior of the method are shown 
-in the following table.
+For this question, let a palindrome be defined as a string that, when spaces are removed, reads the same forward and backward. For example, "race car" and "taco cat" are palindromes. You will write method palindromeChecker, which determines whether a string is a palindrome and prints a message indicating the result.   
+Examples of the intended behavior of the method are shown in the following table.  
 
 | Method Call | Printed Message |
 | ----------- | --------------- |
@@ -31,6 +28,6 @@ in the following table.
 | palindromeChecker("laid on no dial") | laid on no dial is a palindrome | 
 | palindromeChecker("level up") | level up is not a palindrome | 
  
-(b) Write method palindromeChecker. Assume that reverseString works as specified, regardless of what you wrote in part (a). 
-    You must use reverseString and removeSpaces appropriately to receive full credit. 
-    Your implementation must conform to the examples in the table.
+(b) Write method palindromeChecker. Assume that reverseString works as specified, regardless of what you wrote in part (a).   
+    You must use reverseString and removeSpaces appropriately to receive full credit.     
+    Your implementation must conform to the examples in the table.  
