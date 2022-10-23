@@ -15,7 +15,7 @@ returns "hihowareyou". The removeSpaces method will be used in part (b).
 
 ## Part A
 (a) Write method reverseString, which takes a string str and returns a new string with the characters in str in reverse order.   
-    For example, reverseString("ABCDE") should return "EDCBA".
+   -For example, reverseString("ABCDE") should return "EDCBA".
 
 
 ## Part B
@@ -29,5 +29,5 @@ Examples of the intended behavior of the method are shown in the following table
 | palindromeChecker("level up") | level up is not a palindrome | 
  
 (b) Write method palindromeChecker. Assume that reverseString works as specified, regardless of what you wrote in part (a).   
-    You must use reverseString and removeSpaces appropriately to receive full credit.     
-    Your implementation must conform to the examples in the table.  
+   -You must use reverseString and removeSpaces appropriately to receive full credit.     
+   -Your implementation must conform to the examples in the table.  
