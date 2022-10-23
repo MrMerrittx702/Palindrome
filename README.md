@@ -13,14 +13,12 @@ The class provides the removeSpaces method, whose implementation is not shown. T
 string and returns a new string with spaces removed. For example, removeSpaces("hi how are you") 
 returns "hihowareyou". The removeSpaces method will be used in part (b).
 
-
-(a) Write method reverseString, which takes a string str and returns a new string with the characters in str in 
-reverse order. 
-For example, reverseString("ABCDE") should return "EDCBA".
-Complete the reverseString method below by assigning the reversed string to result.
-Takes a string str and returns a new string with the characters reversed.
+## Part A
+(a) Write method reverseString, which takes a string str and returns a new string with the characters in str in reverse order. 
+    For example, reverseString("ABCDE") should return "EDCBA".
 ------------------------------------------------------------------------------------------------------------------------------------------------
- 
+
+## Part B
 For this question, let a palindrome be defined as a string that, when spaces are removed, 
 reads the same forward and backward. For example, "race car" and "taco cat" are palindromes. 
 You will write method palindromeChecker, which determines whether a string is a palindrome and 
@@ -29,10 +27,9 @@ in the following table.
 
           Method Call	                         Printed Message
  palindromeChecker("taco cat")	           taco cat is a palindrome
- palindromeChecker("laid on no dial")       laid on no dial is a palindrome
+ palindromeChecker("laid on no dial")     laid on no dial is a palindrome
  palindromeChecker("level up")	           level up is not a palindrome
  
-(b) Write method palindromeChecker below. Assume that reverseString works as specified, 
-regardless of what you wrote in part (a). 
-You must use reverseString and removeSpaces appropriately to receive full credit. 
-Your implementation must conform to the examples in the table.
+(b) Write method palindromeChecker. Assume that reverseString works as specified, regardless of what you wrote in part (a). 
+    You must use reverseString and removeSpaces appropriately to receive full credit. 
+    Your implementation must conform to the examples in the table.
